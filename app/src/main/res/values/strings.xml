@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Image Viewer</string>
+    <string name="gallery_title">Gallery</string>
+    <string name="image_detail">Image Detail</string>
+    <string name="director">director: %s</string>
+    <string name="category">Category: %s</string>
+    <string name="loading">Loading…</string>
+    <string name="error_loading_image">Error loading image</string>
+    <string name="image_content_description">Gallery image</string>
+    <string name="back">Back</string>
+</resources>
